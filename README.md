@@ -1,0 +1,1 @@
+# Open-the-folder-and-find-the-image-file
