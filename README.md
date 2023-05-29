@@ -15,6 +15,4 @@ Folders are colored yellow, and image files are colored white.The back button ta
 
 These scripts are characterized by not using external programs or external APIs.
 
-이 스크립트들은 외부 프로그램이나 외부 api를 사용하지 않은 것이 특징입니다.
-
 ![image](https://user-images.githubusercontent.com/108164564/223010183-ee3e4f27-d7c7-4807-aa0e-3415856bd81b.png)
