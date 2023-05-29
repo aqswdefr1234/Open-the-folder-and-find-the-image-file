@@ -13,6 +13,4 @@ Folders are colored yellow, and image files are colored white.The back button ta
 파일들을 불러올 때 스크롤 뷰 오브젝트하위에 생성되는 버튼 오브젝트들의 개수에 따라 Content의 높이를 지정해줍니다.
 폴더는 노란색으로, 이미지 파일은 흰색으로 분류하였습니다.
 
-These scripts are characterized by not using external programs or external APIs.
-
 ![image](https://user-images.githubusercontent.com/108164564/223010183-ee3e4f27-d7c7-4807-aa0e-3415856bd81b.png)
